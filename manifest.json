@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "PoisonAIBros",
+    "version": "1.0",
+    "description": "A tool to poison your AO3 text to help protect against AI scraping.",
+    "permissions": [
+      "activeTab",
+      "scripting",
+      "contextMenus"
+    ],
+    "action": {
+      "default_icon": "icon.png"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "host_permissions": [
+      "https://archiveofourown.org/works/new"
+    ],
+    "icons": {
+      "48": "icon.png"
+    }
+  }
+  
