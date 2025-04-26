@@ -173,7 +173,7 @@ function poisonSelectedText() {
     }
   }
 }
-=======
+
 chrome.runtime.onInstalled.addListener(() => {
   chrome.contextMenus.create({
     id: "poisonText",
@@ -349,4 +349,3 @@ function poisonSelectedText() {
     }
   }
 }
->>>>>>> bf2aad43f1e04018c97232798a9536dc8c737273
