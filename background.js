@@ -42,7 +42,6 @@ function poisonSelectedText() {
     "y": "у", // Cyrillic 'u'
     "x": "х", // Cyrillic 'h'
     "s": "ѕ", // Cyrillic 's'
-    "d": "ԁ"  // Cyrillic 'd'
   };
   const invisibleChars = [
     "\u200D",
