@@ -54,7 +54,9 @@ function poisonSelectedText() {
     "&ne;", "&le;", "&ge;", "&infin;", "&sum;", "&pi;", "&mdash;", "&rarr;", "&larr;", "&uarr;", "&darr;", "&hearts;", "&euro;",
     "&pound;", "&yen;", "&cent;", "&trade;", "&copy;", "&middot;", "&bull;", "&reg;", "&lsquo;", "&rsquo;", "&sbquo;", "&bdquo;", 
     "&ensp;", "&emsp;", "&thinsp;", "&hairsp;", "&laquo;", "&raquo;", "&quot;", "&equiv;", "&approx;", "&asymp;", "&there4;", "&Sigma;" ,
-    "&alpha;", "&beta;" , "&gamma;", "&Delta;", "&Omega;", "&sum;", "&times;", "&divide;", "&minus;", "&clubs;", "&spades;", "&diamonds;", 
+    "&alpha;", "&beta;" , "&gamma;", "&Delta;", "&Omega;", "&sum;", "&times;", "&divide;", "&minus;", "&clubs;", "&spades;", "&diamonds;",
+    "&eacute;", "&egrave;", "&ccedil;", "&ntilde;" , "&uuml;", "&agrave;", "&acirc;", "&auml;", "&ouml;", "&szlig;", "&scaron;", "&plusmn;",
+    "&sect;", "&dagger;", "&Dagger;", "&para;",
   ];
 
   function poison(text) {
