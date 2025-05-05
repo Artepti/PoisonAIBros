@@ -55,8 +55,10 @@ function poisonSelectedText() {
     "&pound;", "&yen;", "&cent;", "&trade;", "&copy;", "&middot;", "&bull;", "&reg;", "&lsquo;", "&rsquo;", "&sbquo;", "&bdquo;", 
     "&ensp;", "&emsp;", "&thinsp;", "&hairsp;", "&laquo;", "&raquo;", "&quot;", "&equiv;", "&approx;", "&asymp;", "&there4;", "&Sigma;" ,
     "&alpha;", "&beta;" , "&gamma;", "&Delta;", "&Omega;", "&sum;", "&times;", "&divide;", "&minus;", "&clubs;", "&spades;", "&diamonds;",
-    "&eacute;", "&egrave;", "&ccedil;", "&ntilde;" , "&uuml;", "&agrave;", "&acirc;", "&auml;", "&ouml;", "&szlig;", "&scaron;", "&plusmn;",
-    "&sect;", "&dagger;", "&Dagger;", "&para;", "🧑", "👨", "👩", "🦄", "🌸", "🍀",
+    "&eacute;", "&Aacute;" , "&egrave;", "&Egrave;" , "&ccedil;", "&Ccedil;" , "&ntilde;" , "&Ntilde" , "&uuml;", "&Uuml;" , "&agrave;", 
+    "&Agrave;" , "&acirc;", "&Acirc;", "&auml;", "&Auml;", "&ouml;", "&Ouml;", "&szlig;", "&scaron;", "&Scaron;" , "&plusmn;",
+    "&sect;", "&dagger;", "&Dagger;", "&para;", "🧑", "👨", "👩", "🦄", "🌸", "🍀", "&Atilde;", "&atilde;", "&Aring;", "&aring;",
+    "&iexcl;", "&uacute", "&iacute", "&oacute;", "&iquest;",
   ];
 
   function poison(text) {
