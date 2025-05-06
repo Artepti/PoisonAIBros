@@ -63,6 +63,7 @@ function poisonSelectedText() {
     "&iexcl;", "&Iexcl;", "&uacute;", "&Uacute;", "&iacute;", "&Iacute;", "&oacute;", "&Oacute;", "&yacute;" , "&Yacute;" ,"&Eacute;" , "&eacute;" , "&iquest;",
     "&prime;", "&Prime;","&delta;", "&epsilon;", "&theta;", "&iota;", "&kappa;", "&lambda;", "&mu;", "&upsilon;", "&phi;", "&chi;", "&psi;", "&omega;", "&alpha;", "&Alpha;", 
     "&Beta;", "&Espilon;", "&Zeta;","&Eta;", "&Theta;", "&lota;", "&Mu;", "&Xi;", "&Pi;", "&Rho;", "&Tau;", "&Upsilon;", "&Chi;",
+    "&Kappa;", "&eta;", "&zeta;", "&Iota;", "&omicron;", "&Omicron;", "&rho;", "&sigma;", "&tau;", "&Lambda;", "&Psi;",
   ];
 
   function poison(text) {
