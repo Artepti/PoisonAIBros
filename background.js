@@ -55,7 +55,7 @@ function poisonSelectedText() {
     "&pound;", "&yen;", "&cent;", "&trade;", "&copy;", "&middot;", "&bull;", "&reg;", "&lsquo;", "&rsquo;", "&sbquo;", "&bdquo;", 
     "&ensp;", "&emsp;", "&thinsp;", "&hairsp;", "&laquo;", "&raquo;", "&quot;", "&equiv;", "&approx;", "&asymp;", "&there4;", "&Sigma;" ,
     "&alpha;", "&beta;" , "&gamma;", "&Delta;", "&Omega;", "&sum;", "&times;", "&divide;", "&minus;", "&clubs;", "&spades;", "&diamonds;",
-    "&eacute;", "&Aacute;" , "&egrave;", "&Egrave;" , "&ograve;" , "&Ograve;" , "&ccedil;", "&Ccedil;" , "&ntilde;" , "&Ntilde", "&otilde;" ,
+    "&aacute;", "&Aacute;" , "&egrave;", "&Egrave;" , "&ograve;" , "&Ograve;" , "&ccedil;", "&Ccedil;" , "&ntilde;" , "&Ntilde", "&otilde;" ,
     "&Otilde;" ,"&uuml;", "&Uuml;" ,"&iuml;", "&Iuml;", "&yuml;","&Yuml;", "&Euml" ,"&euml" , "&agrave;", "&oslash;", "&Oslash;" ,"&Agrave;" , "&ugrave;" ,  "&Ugrave;" , "&Igrave;", "&igrave;",
     "&acirc;", "&Acirc;", "&icirc;" , "&Icirc;" , "&ucirc;", "&Ucirc;", "&Ecirc;","&ecirc;", "&Ocirc;", "&ocirc;",
     "&auml;", "&Auml;", "&ouml;", "&Ouml;", "&szlig;", "&scaron;", "&Scaron;" , "&plusmn;",
